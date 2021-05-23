@@ -13,7 +13,7 @@
 #### วิธี Run Code🖥
 Training และ Testing 👇🏻
 ```
-handcraft.py
+handcraft_based.py
 ```
 
 #### วิธีเปลี่ยนรูป Dataset💾
