@@ -45,7 +45,7 @@ drive.mount('/content/drive')
 """### Explore image data"""
 
 #กำหนดที่อยู่ของ dataset ที่นำมาใช้ 
-#ที่ใส่path ในที่นี้ใช้สำหรับtest และtrain path เดียวกัน
+#ที่ใส่path ในที่นี้ใช้สำหรับtest และtrain ในpath เดียวกัน
 data_path = Path('Tr/emoji')
 
 #แสดงภายในที่อยู่โฟลเดอร์ของเรา
