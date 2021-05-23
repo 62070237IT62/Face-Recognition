@@ -17,7 +17,12 @@ handcraft.py
 ```
 
 #### วิธีเปลี่ยนรูป Dataset💾
-
+```
+#training
+   - จะอยู่บรรทัดแรกของโซน training ใน loop for ชั้นที่ 2 นำ path ของ dataset เข้ามาใส่ โดยกำหนดให้ตัวที่ใช้ในการรัน file เหมือนค่าตัวแปรในลูป
+#testing
+   - อยู่ขั้นที่ 6 โดยให้นำ path ของไฟล์ มาใส่ที่ตัวแปร path
+```
 ## Project3 : Learning_base😂
 #### วิธี Run Code🖥
 Training และ Testing 👇🏻
