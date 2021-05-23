@@ -11,6 +11,10 @@
 >หมายเหตุ : Project2 และ Project3 ทำบน google colab 
 ## Project2 : Handcraft_base✍🏻
 #### วิธี Run Code🖥
+Training และ Testing 👇🏻
+```
+handcraft.py
+```
 
 #### วิธีเปลี่ยนรูป Dataset💾
 
