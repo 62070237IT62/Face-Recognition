@@ -16,8 +16,14 @@
 
 ## Project3 : Learning_base😂
 #### วิธี Run Code🖥
+Training และ Testing 👇🏻
 ```
 learning_based.py
+```
+เมื่อรันทั้งหมดแล้วจะได้ไฟล์ "model.pt" ออกมา
+รันใน google colab จะได้
+```
+/content/model.pt
 ```
 #### วิธีเปลี่ยนรูป Dataset💾
 ใช้pathlib ในการอ่านไฟล์ดังนั้น dataset ที่ใช้วางpath ถึงแค่โฟลเดอร์ที่กำหนดไว้
