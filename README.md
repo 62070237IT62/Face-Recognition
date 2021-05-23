@@ -12,6 +12,11 @@
 #### วิธี Run Code🖥
 
 #### วิธีเปลี่ยนรูป Dataset💾
+
+## Project3 : Learning_base😂
+#### วิธี Run Code🖥
+
+#### วิธีเปลี่ยนรูป Dataset💾
 ใช้pathlib ในการอ่านไฟล์ดังนั้น dataset ที่ใช้วางpath ถึงแค่โฟลเดอร์ที่กำหนดไว้
 ```
 #กำหนดที่อยู่ของ dataset ที่นำมาใช้ 
@@ -24,7 +29,3 @@ data_path = Path('Tr/emoji')
 #ls เป็นการเรียกไฟล์จากโฟลเดอร์ย่อย
 (data_path/f'i ({idx})').ls()
 ```
-## Project3 : Learning_base😂
-#### วิธี Run Code🖥
-
-#### วิธีเปลี่ยนรูป Dataset💾
