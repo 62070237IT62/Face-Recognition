@@ -30,7 +30,7 @@ Training และ Testing 👇🏻
 learning_based.py
 ```
 เมื่อรันทั้งหมดแล้วจะได้ไฟล์ "model.pt" ออกมา
-รันใน google colab จะได้
+รันใน google colab จะได้ หรือ[ดาวน์โหลด](https://drive.google.com/file/d/1ihxRvXId87UK_lDUIXtnb53FWoNudPvJ/view?usp=sharing)
 ```
 /content/model.pt
 ```
