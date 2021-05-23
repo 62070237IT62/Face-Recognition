@@ -9,3 +9,11 @@
    4. นางสาวกมลชนก สินรักษา 63070205
 
 ## Project2 : Handcraft_base
+#### วิธี Run Code
+
+
+
+
+
+## Project3 : Learning_base
+#### วิธี Run Code
