@@ -1,11 +1,11 @@
-Handcraft
 
 
 
-
-Learning Based
-- numpy
-- matplotlib
-- pytorch
-- pillow
-- pathlib
+numpy==1.19.5
+matplotlib==3.2.2
+torch==1.8.1+cu101
+torchvision==0.9.1+cu101
+Pillow==7.1.2 
+pathlib==1.0.1
+tensorflow==2.4.1
+tqdm==4.41.1
