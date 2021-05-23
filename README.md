@@ -8,6 +8,7 @@
    3. นางสาวนาเดีย สมัญญา 62070251
    4. นางสาวกมลชนก สินรักษา 63070205
 
+##### หมายเหตุ : ทำบน google colab ทั้ง2project
 ## Project2 : Handcraft_base✍🏻
 #### วิธี Run Code🖥
 
@@ -15,7 +16,9 @@
 
 ## Project3 : Learning_base😂
 #### วิธี Run Code🖥
-
+```
+learning_based.py
+```
 #### วิธีเปลี่ยนรูป Dataset💾
 ใช้pathlib ในการอ่านไฟล์ดังนั้น dataset ที่ใช้วางpath ถึงแค่โฟลเดอร์ที่กำหนดไว้
 ```
