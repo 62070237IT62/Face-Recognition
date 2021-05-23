@@ -20,10 +20,10 @@ handcraft_based.py
 ```
 #training
    - จะอยู่บรรทัดแรกของโซน training ใน loop for ชั้นที่ 2 นำ path ของ dataset เข้ามาใส่ โดยกำหนดให้ตัวที่ใช้ในการรัน file เหมือนค่าตัวแปรในลูป
-   ![SharedScreenshot](https://user-images.githubusercontent.com/72915715/119269424-d3e6e800-bc21-11eb-9691-c90552eec660.jpg)   
+      path = '/content/drive/MyDrive/Tr/emoji/i (' + str(_classname) + ')/t (' + str(_id) + ').pgm'   
 #testing
    - อยู่ขั้นที่ 6 โดยให้นำ path ของไฟล์ มาใส่ที่ตัวแปร path 
-   ![SharedScreenshot3](https://user-images.githubusercontent.com/72915715/119269434-e103d700-bc21-11eb-84e7-b20f460224ce.jpg)
+      path = '/content/unknown3.png';
 
 ```
 ## Project3 : Learning_base😂
