@@ -17,3 +17,7 @@
 
 ## Project3 : Learning_base
 #### วิธี Run Code
+
+
+
+## วิธีเปลี่ยนรูป Dataset
